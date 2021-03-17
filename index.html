@@ -12,7 +12,17 @@
     <body>
         <h1>FORMS</h1>
         <form>
-            <input type="text"/>
+            <label for="user">USERNAME</label>
+            <input maxlength="30" minlength="4" name="user" type="text" id="user"/>
+            <label>Email</label>
+            <input name="email" type="email">
+            <select name="products" id="product">
+                <option value=""></option>
+                <option value="MACBOOK 2018">MACBOOK</option>
+                <option value="IPHONE 11">IPHONE</option>
+            </select>
+            <textarea name="message" id="message" cols="30" rows="10"></textarea>
+            <button type="submit">Submit</button>
         </form>
     </body>
 </html>
