@@ -1,0 +1,9 @@
+h1 {
+  color: fuchsia;
+}
+.random h1 {
+  color: hotpink;
+}
+* {
+  font-size: 20px;
+}
