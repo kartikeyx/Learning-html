@@ -10,3 +10,6 @@ h1 {
 .my-list + ul {
   list-style: none;
 }
+.nav-link > li {
+  color: cyan;
+}
