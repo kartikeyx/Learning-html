@@ -1,6 +1,26 @@
 .links li:nth-child(1) {
   color: hotpink;
 }
-.links:nth-child(2) {
-  color: aquamarine;
+//h1 {
+  color: hotpink;
 }
+.random h1 {
+  color: indigo;
+}
+* {
+  font-size: 20px;
+}
+.my-list + ul {
+  list-style: none;
+}
+.nav-link li {
+  color: cyan;
+}
+
+.nav-link li a {
+  color: blue;
+}
+.nav-link a {
+  color: brown;
+}
+//
