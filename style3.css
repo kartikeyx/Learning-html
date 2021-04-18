@@ -1,0 +1,12 @@
+h1.active {
+  color: rgb(90, 99, blue);
+}
+.header {
+  color: orchid;
+}
+h1 {
+  color: orange;
+}
+#head {
+  color: palegreen;
+}
