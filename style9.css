@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  background: crimson;
+  width: 80%;
+  height: 80%;
+  margin: auto;
+}
+.box1,
+.box2,
+.box3 {
+  width: 20%;
+  height: 20%;
+  background: hotpink;
+}
+.box2 {
+  background: ivory;
+}
