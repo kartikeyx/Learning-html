@@ -14,6 +14,7 @@ h1 {
 h2 {
   font-size: 3.6rem;
   padding: 5rem 0rem;
+  color: ivory;
 }
 a {
   color: ivory;
@@ -22,6 +23,7 @@ a {
 }
 h3 {
   font-size: 2.8rem;
+  color: ivory;
 }
 button {
   font-size: 1.8rem;
@@ -29,6 +31,7 @@ button {
 nav {
   background: cornflowerblue;
   color: ivory;
+  padding: 3rem;
 }
 nav h1 {
   float: left;
@@ -38,4 +41,19 @@ nav ul {
 }
 .clear {
   clear: both;
+  list-style: none;
+}
+nav li {
+  float: left;
+  margin: 0rem 4rem;
+}
+.about {
+  background-image: url(/HTML/Learning-html/jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg);
+  height: 80rem;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: ivory;
+  padding-top: 15rem;
+  text-shadow: 3px 3px 3px hotpink;
 }
