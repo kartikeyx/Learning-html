@@ -8,11 +8,34 @@ html {
   font-size: 62.5%;
 }
 
-.box1,
-.box2,
-.box3 {
-  width: 80rem;
-  height: 30rem;
-  border: 2px solid black;
-  margin: 1rem;
+h1 {
+  font-size: 2.8rem;
+}
+h2 {
+  font-size: 3.6rem;
+  padding: 5rem 0rem;
+}
+a {
+  color: ivory;
+  text-decoration: none;
+  font-size: 2.4rem;
+}
+h3 {
+  font-size: 2.8rem;
+}
+button {
+  font-size: 1.8rem;
+}
+nav {
+  background: cornflowerblue;
+  color: ivory;
+}
+nav h1 {
+  float: left;
+}
+nav ul {
+  float: right;
+}
+.clear {
+  clear: both;
 }
