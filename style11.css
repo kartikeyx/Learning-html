@@ -57,3 +57,29 @@ nav li {
   padding-top: 15rem;
   text-shadow: 3px 3px 3px hotpink;
 }
+.about button {
+  margin-top: 4rem;
+  padding: 1rem 4rem;
+  background: hotpink;
+  border: none;
+  color: ivory;
+  cursor: pointer;
+}
+.form-section {
+  text-align: center;
+}
+
+form {
+}
+form input,
+form label,
+form textarea {
+  display: block;
+}
+form input,
+form textarea {
+  margin: 2rem auto;
+}
+form button {
+  margin-bottom: 10rem;
+}
